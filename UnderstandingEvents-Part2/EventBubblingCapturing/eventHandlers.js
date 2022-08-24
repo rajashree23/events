@@ -9,7 +9,6 @@ btn.addEventListener("click", (e) => {
 });
 container.addEventListener("click", (e) => {
   setOutputContent(e);
-  console.log('hey')
   container.classList.add("add-color");
 });
 
