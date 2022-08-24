@@ -1,0 +1,22 @@
+div,pre{
+    text-align: center;
+
+}
+
+button{
+    font-size: 1.5rem;
+    color: darkmagenta;
+    margin: 5rem auto;
+}
+
+#container{
+    height: 30vh;
+    width: 30vw;
+    padding-top: 4rem;
+    margin: 10rem auto;
+    border:1px solid black
+}
+
+.add-color{
+    background-color: yellow;
+}
