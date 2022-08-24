@@ -5,7 +5,6 @@ const output=document.getElementById("output")
 btn.addEventListener("click", changeText);
 btn.addEventListener("click", changeColor);
 
-//changeColor will only be invoked
 //event handler properties
 // btn.onclick=changeText;
 // btn.onclick=changeColor;
